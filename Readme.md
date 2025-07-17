@@ -34,7 +34,7 @@
 
 Use the following credentials to explore admin-only features:
 Email: demoemail12@gmail.com
-Password: demopassword@12
+Password: Demopassword@12
 
 
 ---
